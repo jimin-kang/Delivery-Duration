@@ -1,0 +1,14 @@
+# Ignore Python bytecode files and cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore pics folder
+pics/
+
+# Ignore virtual environment folder
+venv/
+
+# # Miscellaneous system files
+# .DS_Store
+# Thumbs.db
